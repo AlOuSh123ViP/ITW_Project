@@ -1,0 +1,162 @@
+body{  background-color: aliceblue;}
+.a_head_left{display: inline; /* float: left; *//* position: relative; */}
+.a_head_right{display: inline;color: purple; float: right; position: relative;}
+.a_head_right:hover{color: blue;}
+.footer-container{
+    display: inline-block;
+}
+.left-col{
+    /* float: left; */
+    display: inline-block;
+    text-align: center;
+    margin-left: 430px;
+}
+.green-color {
+    color:green;
+}
+#Youtube:hover{background-color: gray;}
+p{text-align: center;}
+#idFacebookIcon{background-color:rgb(0, 136, 255);border-radius:50%;color:white;cursor:pointer;display:inline-block;font: 39px Arial, Helvetica, sans-serif;height: 40px;margin-top:1px;text-align:center;width: 40px;}
+#idFacebookIcon:hover{background-color:#2af;}
+.fa:hover{color: blue;}
+.right-col{
+    float: right;
+    margin-bottom: 10px;
+}
+input:hover{background-color:whitesmoke ; color:black ; }
+#searchbar:hover{color: purple; text-align: center;}
+select:hover{color: royalblue;}
+.center_22{
+    float: right;
+    display: inline;
+    margin-top: 2%;
+    margin-right: 115px;
+    /* margin-left: 12px; */
+    height: "200px";
+    width: "300px";
+    box-shadow: inset 0px -1px 19px 5px rgb(129 124 124 / 20%);
+    backdrop-filter: blur(5px);
+}
+.left{
+    float: left;
+    margin-top: 2%;
+    margin-left: 12px;
+    height:"200px";
+    width:"300px";
+    box-shadow: inset 0px -1px 19px 5px rgb(129 124 124 / 20%);
+    backdrop-filter: blur(5px);
+    } 
+.right{
+    float: right;
+    display: inline;
+    margin-right: 12px;
+    margin-top: 2%;
+    height:"200px";
+    width:"300px";
+    box-shadow: inset 0px -1px 19px 5px rgb(129 124 124 / 20%);
+    backdrop-filter: blur(5px);
+    }
+.Electronic_leftPhones{float: left;
+    display: inline;
+    margin-top: 2%;
+    margin-left: 20px;
+    height:"200px";
+    width:"300px";
+    box-shadow: inset 0px -1px 19px 5px rgb(129 124 124 / 20%);
+    backdrop-filter: blur(5px);
+}
+.Electronic{
+    float: left;
+    display: inline;
+    margin-top: 2%;
+    margin-left: 150px;
+    height:"200px";
+    width:"300px";
+    box-shadow: inset 0px -1px 19px 5px rgb(129 124 124 / 20%);
+    backdrop-filter: blur(5px);
+}
+    .left_2{
+        float: left;
+        display: inline;
+        margin-top: 2%;
+        margin-left: 10px;
+        /* margin-right: 1px; */
+        /* margin-bottom: 1px; */
+        width:"300px";
+        box-shadow: inset 0px -1px 19px 5px rgb(129 124 124 / 20%);
+        backdrop-filter: blur(5px);
+        }
+    .right_2{
+        float: right;
+        display: inline;
+        margin-right: 100px;
+        margin-top: 2%;
+        height:"200px";
+        width:"300px";
+        box-shadow: inset 0px -1px 19px 5px rgb(129 124 124 / 20%);
+        backdrop-filter: blur(5px);
+    }
+.left_22{
+    float: left;
+    display: inline;
+    margin-top: 2%;
+    margin-left: 10px;
+    height: "200px";
+    width: "300px";
+    box-shadow: inset 0px -1px 19px 5px rgb(129 124 124 / 20%);
+    backdrop-filter: blur(5px);
+}
+.right_22{
+    float: right;
+    display: inline;
+    margin-top: 2%;
+    margin-right: px;
+    /* margin-left: 12px; */
+    height: "200px";
+    width: "300px";
+    box-shadow: inset 0px -1px 19px 5px rgb(129 124 124 / 20%);
+    backdrop-filter: blur(5px);
+}
+figcaption{text-align: center;color: purple;}
+a:hover{color: purple;}
+a:active{color:orange ;}
+
+/*
+.head_left,.head_center,.head_right{display: inline;}
+#searchbar{
+text-align: center;
+}
+.head_left{}
+
+.form_head{ text-align: center;}
+input[type="submit"]{
+    margin-right: 20px;
+}
+input[type="submite"]:hover{border-radius: 70%;}
+.select_inform,select{ border: black; border-radius: 8%;}
+
+.a_left{
+    display: inline;
+}
+.centered{background-color: gainsboro;}
+.back_top{
+text-align: center;
+background-color: grey;
+display: inline-block;
+margin-left: 100px;
+}
+
+.foot_left{
+    text-align:left ;
+    background-color: blanchedalmond;
+    float: left;
+}
+.foot_center{ text-align: center;
+background-color: #ffebcd;
+}
+
+.foot_right{
+text-align: right;
+background-color: rgb(176, 174, 172);
+float: right;
+} */

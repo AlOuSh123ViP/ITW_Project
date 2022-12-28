@@ -1,0 +1,82 @@
+/* curior soild groov for input{border:} */
+/* main page is in register and login */
+.bodyLog,.bodyReg{
+  display: contents;
+  background-image: url(/Users/alaaa/Dropbox/Screenshots/Bluredjpg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-color: aliceblue;
+  height: 500px;
+  padding: 10px;
+  margin-left: 20px;
+}
+.ID,.Pass{
+  text-align: center;
+   width: auto;}
+.MainPG{
+  POSITION: absolute;
+  color: black;
+  background-image: url(/Users/alaaa/Dropbox/Screenshots/transparent-blur-png.png);
+  margin-right: auto;
+  margin-left: 465px;
+  width: 500px;
+  box-shadow: inset 0px 0px 16px 10px rgb(129 124 124 / 20%);
+  backdrop-filter: blur(5px);
+  height: 400px;
+  height: 700px;
+  border-radius: 100px;
+}
+.firstForm_reg{ margin-left: 150px; margin-top: 70px;}
+.firstForm{
+  margin-top: 150px;
+  inline-size: 100%;
+}
+*, ::after, ::before {
+  inline-size: 100%;
+}
+.CHKB{
+  text-align: center;
+  margin-left: 0;
+}
+.SubBtt{border: radius 5px ;}
+CHKBL{  text-align: center; 
+  margin-left: 0; }
+#CHKB{position: absolute;
+    width:auto;}
+.logForm{
+text-align: center;
+}
+input[type="submit"]{
+color: black;
+border-radius: 40px;
+}
+input:hover{color: purple;}
+input {
+    border: 1px solid #f8f8ff;
+    padding: 15px 20px;
+    border-radius: 40px;
+    width: 15%;  
+    margin-bottom: 10px;
+    background-color: #f8f8ff;
+  width: 200px;
+  }
+ 
+
+.foot{
+  text-align: inherit;
+  margin-left: 670px;
+  margin-top: 650px;
+  position: absolute;
+  display: block;
+}
+.foot_log{
+  text-align:inherit;
+  margin-left: 310px;
+  margin-top:290px;
+  position:absolute;
+  display: block;
+  }
+a:hover {color: red}
+a:active{color: orange; }
+a:visited{color: purple; }
